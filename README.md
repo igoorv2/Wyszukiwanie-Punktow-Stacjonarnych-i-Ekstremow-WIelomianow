@@ -1,2 +1,2 @@
 # Wyszukiwanie-Punktow-Stacjonarnych-i-Ekstremow-WIelomianow
-Projekt zaliczeniowy z przedmiotu Metody Numeryczne
+Projekt implementuje algorytm numeryczny do znajdowania punktów stacjonarnych (gdzie pierwsza pochodna jest równa zero) i klasyfikacji ekstremów (minimum, maksimum, brak rozstrzygnięcia) dla wielomianów. Wykorzystuje metodę Newtona do znajdowania pierwiastków pierwszej pochodnej oraz Schemat Hornera do efektywnego obliczania wartości wielomianu i jego pochodnych. Implementacja została zrealizowana w MATLAB-ie.
